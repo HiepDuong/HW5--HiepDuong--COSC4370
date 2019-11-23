@@ -3,3 +3,4 @@ https://people.eecs.berkeley.edu/~efros/research/efros-thesis.pdf is the link wh
 I only touch the function GrowImage and Findmatches because thats what I understand based on the research paper code
 I use visual studio 2017 in microsoft
 https://github.com/xingdi-eric-yuan/texture-synthesis/blob/master/ts.cpp
+I only change the formula so that it looks really similar to the paper (the code from 3rd party formula looks weird for me)
